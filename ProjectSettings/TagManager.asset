@@ -10,6 +10,8 @@ TagManager:
   - Arm
   - start Goal
   - end Goal
+  - hos
+  - cli
   layers:
   - Default
   - TransparentFX
