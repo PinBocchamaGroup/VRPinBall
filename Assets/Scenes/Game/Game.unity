@@ -965,7 +965,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &517559134
 Transform:
   m_ObjectHideFlags: 0
@@ -2195,7 +2195,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1524578287
 Transform:
   m_ObjectHideFlags: 0
@@ -2487,6 +2487,10 @@ Prefab:
     - target: {fileID: 428508, guid: 994a247482b814e56b6d52d738745948, type: 2}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 149556, guid: 994a247482b814e56b6d52d738745948, type: 2}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 994a247482b814e56b6d52d738745948, type: 2}
@@ -2812,7 +2816,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1840157226
 Transform:
   m_ObjectHideFlags: 0
